@@ -1,0 +1,4 @@
+dhanhq
+pandas
+pandas_ta
+requests
